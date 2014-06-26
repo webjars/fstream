@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>fstream</artifactId>
-    <version>0.1.27-SNAPSHOT</version>
+    <version>0.1.27</version>
     <name>fstream</name>
     <description>WebJar for fstream</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/fstream</url>
         <connection>scm:git:https://github.com/webjars/fstream.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/fstream.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>fstream-0.1.27</tag>
     </scm>
 
     <developers>
